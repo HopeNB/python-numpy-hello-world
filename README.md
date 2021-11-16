@@ -1,2 +1,2 @@
 # python-numpy-hello-world
-Sdvor Data Science lestures
+Sdvor Data Science lectures
